@@ -1,6 +1,10 @@
 # Catalyst Test Data Generator function
 #### Built using Azure Functions for Java 
 
+This project aims to show an example of how to use Azure Functions to generate random data and then store that data to an Azure Blob Storage account.
+
+This project needs to be configured correctly to work.
+
 ## Setup
 
 First of all, ensure you've got Maven on your PATH. 
